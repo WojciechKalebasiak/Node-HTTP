@@ -1,0 +1,15 @@
+{
+  "name": "nodehttp",
+  "version": "1.0.0",
+  "description": "learning http in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "http"
+  ],
+  "author": "wojciechkaleb",
+  "license": "ISC"
+}
